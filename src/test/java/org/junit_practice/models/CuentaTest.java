@@ -1,4 +1,4 @@
-package org.junit_prcatice.models;
+package org.junit_practice.models;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.api.condition.*;
